@@ -36,6 +36,7 @@ public class DBLibraryDriver {
           pw.print(table[row][col] + ",");
         }
         pw.println();
+        System.out.print("Hello world");
       }     
     }
     else{
